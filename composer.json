@@ -1,0 +1,15 @@
+{
+    "name": "ricardo/blksolucoes",
+    "autoload": {
+        "psr-4": {
+            "Ricardo\\Blksolucoes\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ricardo Paulino",
+            "email": "ricardo.paulino@byteon.com.br"
+        }
+    ],
+    "require": {}
+}
