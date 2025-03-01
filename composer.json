@@ -1,15 +1,14 @@
 {
     "name": "ricardo/blksolucoes",
-    "description": "this is the custom framework",
     "autoload": {
         "psr-4": {
-            "App\\": "app/"
+            "Ricardo\\Blksolucoes\\": "app/"
         }
     },
     "authors": [
         {
             "name": "Ricardo Paulino",
-            "email": "ricardo.paulino.nascimento@bgmail.com.br"
+            "email": "ricardo.paulino@byteon.com.br"
         }
     ],
     "require": {}
